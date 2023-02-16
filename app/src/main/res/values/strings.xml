@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Greolocalisation_v2_kotlin</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
